@@ -1,23 +1,9 @@
 # Maven
 target/
-pom.xml.tag
-pom.xml.releaseBackup
-pom.xml.versionsBackup
-pom.xml.next
-release.properties
-dependency-reduced-pom.xml
+*.class
 
 # IDE
 .idea/
 *.iml
 .vscode/
-.settings/
-.project
-.classpath
-
-# OS
 .DS_Store
-Thumbs.db
-
-# Benchmark results (optional - you may want to commit these)
-# benchmark_results.csv
